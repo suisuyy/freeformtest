@@ -1,4 +1,4 @@
-package com.yourdomain.launcherapp;
+package com.android.testapp;
 
 import android.graphics.drawable.Drawable;
 

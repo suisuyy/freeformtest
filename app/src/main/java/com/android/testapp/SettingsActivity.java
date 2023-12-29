@@ -1,4 +1,4 @@
-package com.yourdomain.launcherapp;
+package com.android.testapp;
 
 
 
@@ -9,7 +9,6 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.yourdomain.launcherapp.R;
 
 public class SettingsActivity extends AppCompatActivity {
 

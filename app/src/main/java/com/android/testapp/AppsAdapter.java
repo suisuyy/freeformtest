@@ -1,8 +1,7 @@
-package com.yourdomain.launcherapp;
+package com.android.testapp;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
-import android.content.pm.ResolveInfo;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

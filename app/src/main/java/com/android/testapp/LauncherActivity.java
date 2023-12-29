@@ -1,6 +1,4 @@
-package com.yourdomain.launcherapp;
-
-import static com.google.android.material.internal.ViewUtils.dpToPx;
+package com.android.testapp;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -12,10 +10,8 @@ import android.content.pm.ResolveInfo;
 import android.view.MotionEvent;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
-import android.widget.GridLayout;
 import android.widget.GridView;
 
-import java.lang.reflect.Method;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -32,7 +28,6 @@ import android.widget.EditText;
 import android.view.KeyEvent;
 import android.webkit.WebViewClient;
 
-import androidx.appcompat.app.WindowDecorActionBar;
 import androidx.core.content.ContextCompat;
 import androidx.core.app.ActivityCompat;
 import android.Manifest;

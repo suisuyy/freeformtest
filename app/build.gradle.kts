@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.yourdomain.launcherapp"
+    namespace = "com.android.testapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.yourdomain.launcherapp"
+        applicationId = "com.android.testapp"
         minSdk = 24
         targetSdk = 30
         versionCode = 1

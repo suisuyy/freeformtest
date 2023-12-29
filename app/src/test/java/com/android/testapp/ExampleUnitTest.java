@@ -1,4 +1,4 @@
-package com.yourdomain.launcherapp;
+package com.android.testapp;
 
 import org.junit.Test;
 
