@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!--
+<!--
   Copyright (C) 2016 The Android Open Source Project
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,17 +15,8 @@
   -->
 
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-
-    <color name="purple">#512DA8</color>
-    <color name="pink">#C2185B</color>
-    <color name="teal">#00695C</color>
-    <color name="lime">#9E9D24</color>
-    <color name="gray">#424242</color>
-    <color name="lightgray">#F5F5F5</color>
-    <color name="cyan">#00838F</color>
-
-    <color name="white">#FFFFFF</color>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="content_vertical_dividing_padding">16dp</dimen>
 </resources>
